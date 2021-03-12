@@ -43,6 +43,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 ![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&layout=compact)](https://github.com/phanit1/github-readme-stats)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://raw.githubusercontent.com/phanit1/phanit1/master/linkedin.png
