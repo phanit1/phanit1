@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Contact Me
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
-# You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
+### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/phanit1/phanit1">
