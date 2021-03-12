@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+
 
 ## Contact Me
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/phanit1/phanit1">
