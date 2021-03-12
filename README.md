@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi I am T. Phaneendhar <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/wave.gif" width="30px" height = "30px">
+# Hi I am T. Phaneendhar 🙏
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
