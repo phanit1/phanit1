@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi I am T. Phaneendhar <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/wave.gif" width="30px" height = "30px">
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
