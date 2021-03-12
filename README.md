@@ -36,14 +36,12 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
 
 ## &#x1f4c8; GitHub Stats
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width = "250px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Phani's GitHub Stats"/>
--->
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical" alt="Phani's GitHub Stats"/>
 
-![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&theme=radical)
-
+<!--![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&langs_count=8&theme=radical&width=100px)](https://github.com/phanit1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&layout=compact&theme=radical)](https://github.com/phanit1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&layout=compact&theme=radical)](https://github.com/phanit1/github-readme-stats)-->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://raw.githubusercontent.com/phanit1/phanit1/master/linkedin.png
