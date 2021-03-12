@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "50px" height="50px"> Contact Me
+## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "30px" height="30px"> Contact Me
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
