@@ -36,12 +36,12 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/phanit1/phanit1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width = "250px"/>
-</a>
-<a href="https://github.com/phanit1/phanit1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Phani's GitHub Stats" width = "250px" height= "1400px"/>
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Phani's GitHub Stats" width = "250px" height= "500px"/>
+![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanit1&show_icons=true&theme=radical)
+
+
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://raw.githubusercontent.com/phanit1/phanit1/master/linkedin.png
