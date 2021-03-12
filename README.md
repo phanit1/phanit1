@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F529%2Fcontacts&psig=AOvVaw0dCtliH_wtZ_7TxJALwre-&ust=1615648301339000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDJ_YmFq-8CFQAAAAAdAAAAABAD)
 
-## ![Contact Me][https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F529%2Fcontacts&psig=AOvVaw0dCtliH_wtZ_7TxJALwre-&ust=1615648301339000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDJ_YmFq-8CFQAAAAAdAAAAABAD] Contact Me
+## Contact Me
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
