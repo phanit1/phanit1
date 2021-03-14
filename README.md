@@ -31,7 +31,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "30px" height="30px"> Contact Me
-You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
+<a href="https://twitter.com/tphani01/">
+  <img align="left" alt="Phani | Twitter" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/phaneendhar-thota-9b3005168/">
+  <img align="left" alt="Phani | LinkedIn" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/linkedin.png" />
+</a>
+<a href="https://t.me/tphani1">
+  <img align="left" alt="Phani | Telegram" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/telegram.png" />
+</a>
 
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
 
