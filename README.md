@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "30px" height="30px"> Contact Me
 <a href="https://twitter.com/tphani01/">
-  <img align="left" alt="Phani | Twitter" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/twitter.png" />
+  <img align="left" alt="Phani | Twitter" width="21px" src="https://github.com/phanit1/phanit1/blob/main/twitter.jpg?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/phaneendhar-thota-9b3005168/">
-  <img align="left" alt="Phani | LinkedIn" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/linkedin.png" />
+  <img align="left" alt="Phani | LinkedIn" width="21px" src="https://github.com/phanit1/phanit1/blob/main/linkedin.jpg?raw=true" />
 </a>
 <a href="https://t.me/tphani1">
-  <img align="left" alt="Phani | Telegram" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/telegram.png" />
+  <img align="left" alt="Phani | Telegram" width="21px" src="https://github.com/phanit1/phanit1/blob/main/telegram.jpg?raw=true" />
 </a>
 
 ### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
