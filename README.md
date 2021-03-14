@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
+### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
+
 ## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "30px" height="30px"> Contact Me
 <a href="https://twitter.com/tphani01/">
   <img align="left" alt="Phani | Twitter" width="21px" src="https://github.com/phanit1/phanit1/blob/main/twitter.jpg?raw=true" />
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/tphani1">
   <img align="left" alt="Phani | Telegram" width="21px" src="https://github.com/phanit1/phanit1/blob/main/telegram.jpg?raw=true" />
 </a>
-
-### You can find my website at [www.tphaneendhar.com](https://phanit1.github.io/myresume/mypersonal/resume.html)
 
 ## &#x1f4c8; GitHub Stats
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&theme=cobalt"/></a>
