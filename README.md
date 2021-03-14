@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://t.me/tphani1">
   <img align="left" alt="Phani | Telegram" width="21px" src="https://github.com/phanit1/phanit1/blob/main/telegram.jpg?raw=true" />
-</a>
+</a><br>
 
 ## &#x1f4c8; GitHub Stats
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanit1&theme=cobalt"/></a>
